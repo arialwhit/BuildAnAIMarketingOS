@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered marketing workspace for founders and agencies to research markets, create and schedule content, manage campaigns, and track business growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
